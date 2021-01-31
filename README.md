@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-### I'm Leandro Villalobos, mobile development from Venezuela. I have extensive experience in the design and building of hibryds apps with react-native and flutter.
+### I'm Leandro Villalobos a mobile developer from Venezuela. I have extensive experience in the design and building of hibryds apps with react-native and flutter.
 
 
 ### I’m looking to work in websites with frontend and backend apps, i have experience but i'm not worked in the big project
