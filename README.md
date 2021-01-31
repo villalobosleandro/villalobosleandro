@@ -10,7 +10,7 @@
 ### Skills
 
 - :iphone: React-native - flutter
-- :computer: Reactjs - Angular
+- :computer: Reactjs - Angular - Nextjs
 - :briefcase: MongoDB, express, meteor, nodejs
 
 ### :email: villalobosleandro1@gmail.com
